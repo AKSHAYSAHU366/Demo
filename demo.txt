@@ -1,0 +1,6 @@
+git remote add origin https://github.com/AKSHAYSAHU366/Demo.git
+
+git commit -m "first commit"
+
+git push -u origin master
+
